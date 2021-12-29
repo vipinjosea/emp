@@ -1,0 +1,15 @@
+{
+  "empsauto": [
+   {"Title":"Freeman,Marton G"},
+   {"Title":"Pelliccio,Louis A"},{"Title":"Stennett,Tennashae"},
+   {"Title":"Martinez,Elaine C"}
+  ],
+  "emps": [
+   {"EmployeeID":"100016615","Name":"Freeman,Marton G","Title":"Oil Delivery Driver","DepartDesc":"Region","Status":"A","ReportToLocDesc":"RegionOil-1"},
+   {"EmployeeID":"100017161","Name":"Pelliccio,Louis A","Title":"Oil Delivery Driver","DepartDesc":"Burke","Status":"A","ReportToLocDesc":"Burke Heat-1"},
+   {"EmployeeID":"100016617","Name":"Stennett,Tennashae","Title":"Customer Service Representative","DepartDesc":"Washington\/VA","Status":"S","ReportToLocDesc":"Washington\/VA-Cheverly"}
+  ],
+  "profile": {
+    "name": "vipinjosea"
+  }
+}
